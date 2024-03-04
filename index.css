@@ -1,0 +1,23 @@
+.card-header{
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 200px;
+}
+
+.searchbar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+}
+.form-inline{
+    text-align: center;
+    padding: 50px;
+    text-align: center;
+}
+body{
+    margin-bottom: 100px;
+}
